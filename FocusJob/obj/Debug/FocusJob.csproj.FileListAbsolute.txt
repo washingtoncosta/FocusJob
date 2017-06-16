@@ -1,0 +1,60 @@
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\FocusJob\FocusJob\bin\Debug\FocusJob.exe.config
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\FocusJob\FocusJob\bin\Debug\FocusJob.exe
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\FocusJob\FocusJob\bin\Debug\FocusJob.pdb
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\FocusJob\FocusJob\obj\Debug\FocusJob.csprojResolveAssemblyReference.cache
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\FocusJob\FocusJob\obj\Debug\FocusJob.Form1.resources
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\FocusJob\FocusJob\obj\Debug\FocusJob.Properties.Resources.resources
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\FocusJob\FocusJob\obj\Debug\FocusJob.csproj.GenerateResource.Cache
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\FocusJob\FocusJob\obj\Debug\FocusJob.exe
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\FocusJob\FocusJob\obj\Debug\FocusJob.pdb
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\FocusJob\FocusJob\obj\Debug\FocusJob.Painel.resources
+E:\Executaveis liberados\FocusJob\FocusJob\bin\Debug\FocusJob.exe.config
+E:\Executaveis liberados\FocusJob\FocusJob\obj\Debug\FocusJob.exe
+E:\Executaveis liberados\FocusJob\FocusJob\obj\Debug\FocusJob.pdb
+E:\Executaveis liberados\FocusJob\FocusJob\bin\Debug\FocusJob.exe
+E:\Executaveis liberados\FocusJob\FocusJob\bin\Debug\FocusJob.pdb
+E:\Executaveis liberados\FocusJob\FocusJob\obj\Debug\FocusJob.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\FocusJob\FocusJob\obj\Debug\FocusJob.Form1.resources
+E:\Executaveis liberados\FocusJob\FocusJob\obj\Debug\FocusJob.Painel.resources
+E:\Executaveis liberados\FocusJob\FocusJob\obj\Debug\FocusJob.Properties.Resources.resources
+E:\Executaveis liberados\FocusJob\FocusJob\obj\Debug\FocusJob.csproj.GenerateResource.Cache
+C:\Users\daan_\Google Drive\GitHub\FocusJob\FocusJob\bin\Debug\FocusJob.exe.config
+C:\Users\daan_\Google Drive\GitHub\FocusJob\FocusJob\obj\Debug\FocusJob.exe
+C:\Users\daan_\Google Drive\GitHub\FocusJob\FocusJob\obj\Debug\FocusJob.pdb
+C:\Users\daan_\Google Drive\GitHub\FocusJob\FocusJob\bin\Debug\FocusJob.exe
+C:\Users\daan_\Google Drive\GitHub\FocusJob\FocusJob\bin\Debug\FocusJob.pdb
+C:\Users\daan_\Google Drive\GitHub\FocusJob\FocusJob\obj\Debug\FocusJob.csprojResolveAssemblyReference.cache
+C:\Users\daan_\Google Drive\GitHub\FocusJob\FocusJob\obj\Debug\FocusJob.Form1.resources
+C:\Users\daan_\Google Drive\GitHub\FocusJob\FocusJob\obj\Debug\FocusJob.Painel.resources
+C:\Users\daan_\Google Drive\GitHub\FocusJob\FocusJob\obj\Debug\FocusJob.Properties.Resources.resources
+C:\Users\daan_\Google Drive\GitHub\FocusJob\FocusJob\obj\Debug\FocusJob.csproj.GenerateResource.Cache
+C:\Users\gerso\OneDrive\Documentos\GitHub\FocusJob\FocusJob\bin\Debug\FocusJob.exe.config
+C:\Users\gerso\OneDrive\Documentos\GitHub\FocusJob\FocusJob\obj\Debug\FocusJob.exe
+C:\Users\gerso\OneDrive\Documentos\GitHub\FocusJob\FocusJob\obj\Debug\FocusJob.pdb
+C:\Users\gerso\OneDrive\Documentos\GitHub\FocusJob\FocusJob\bin\Debug\FocusJob.exe
+C:\Users\gerso\OneDrive\Documentos\GitHub\FocusJob\FocusJob\bin\Debug\FocusJob.pdb
+C:\Users\gerso\OneDrive\Documentos\GitHub\FocusJob\FocusJob\obj\Debug\FocusJob.csprojResolveAssemblyReference.cache
+C:\Users\gerso\OneDrive\Documentos\GitHub\FocusJob\FocusJob\obj\Debug\FocusJob.Form1.resources
+C:\Users\gerso\OneDrive\Documentos\GitHub\FocusJob\FocusJob\obj\Debug\FocusJob.Painel.resources
+C:\Users\gerso\OneDrive\Documentos\GitHub\FocusJob\FocusJob\obj\Debug\FocusJob.Properties.Resources.resources
+C:\Users\gerso\OneDrive\Documentos\GitHub\FocusJob\FocusJob\obj\Debug\FocusJob.csproj.GenerateResource.Cache
+E:\Executaveis liberados\GitHub\FocusJob\FocusJob\bin\Debug\FocusJob.exe.config
+E:\Executaveis liberados\GitHub\FocusJob\FocusJob\obj\Debug\FocusJob.exe
+E:\Executaveis liberados\GitHub\FocusJob\FocusJob\obj\Debug\FocusJob.pdb
+E:\Executaveis liberados\GitHub\FocusJob\FocusJob\bin\Debug\FocusJob.exe
+E:\Executaveis liberados\GitHub\FocusJob\FocusJob\bin\Debug\FocusJob.pdb
+E:\Executaveis liberados\GitHub\FocusJob\FocusJob\obj\Debug\FocusJob.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\GitHub\FocusJob\FocusJob\obj\Debug\FocusJob.Form1.resources
+E:\Executaveis liberados\GitHub\FocusJob\FocusJob\obj\Debug\FocusJob.Painel.resources
+E:\Executaveis liberados\GitHub\FocusJob\FocusJob\obj\Debug\FocusJob.Properties.Resources.resources
+E:\Executaveis liberados\GitHub\FocusJob\FocusJob\obj\Debug\FocusJob.csproj.GenerateResource.Cache
+E:\executaveis liberados\pasta\FocusJob\FocusJob\bin\Debug\FocusJob.exe.config
+E:\executaveis liberados\pasta\FocusJob\FocusJob\obj\Debug\FocusJob.exe
+E:\executaveis liberados\pasta\FocusJob\FocusJob\obj\Debug\FocusJob.pdb
+E:\executaveis liberados\pasta\FocusJob\FocusJob\bin\Debug\FocusJob.exe
+E:\executaveis liberados\pasta\FocusJob\FocusJob\bin\Debug\FocusJob.pdb
+E:\executaveis liberados\pasta\FocusJob\FocusJob\obj\Debug\FocusJob.csprojResolveAssemblyReference.cache
+E:\executaveis liberados\pasta\FocusJob\FocusJob\obj\Debug\FocusJob.Form1.resources
+E:\executaveis liberados\pasta\FocusJob\FocusJob\obj\Debug\FocusJob.Painel.resources
+E:\executaveis liberados\pasta\FocusJob\FocusJob\obj\Debug\FocusJob.Properties.Resources.resources
+E:\executaveis liberados\pasta\FocusJob\FocusJob\obj\Debug\FocusJob.csproj.GenerateResource.Cache
